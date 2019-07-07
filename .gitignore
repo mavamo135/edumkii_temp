@@ -1,13 +1,10 @@
-boostxl_edumkii_temp_MSP_EXP432P401R_tirtos_ccs/Debug/
-boostxl_edumkii_temp_MSP_EXP432P401R_tirtos_ccs/Release/
-boostxl_edumkii_temp_MSP_EXP432P401R_tirtos_ccs/targetConfigs/
-boostxl_edumkii_temp_MSP_EXP432P401R_tirtos_ccs/.xdchelp
-boostxl_edumkii_temp_MSP_EXP432P401R_tirtos_ccs/.config
-boostxl_edumkii_temp_MSP_EXP432P401R_tirtos_ccs/.launches
+# Code Composer Studio files and folders
+Debug/
+Release/
+targetConfigs/
+.xdchelp
+.config
+.launches
 
-tirtos_builds_temp_MSP_EXP432P401R_release_ccs/Debug/
-tirtos_builds_temp_MSP_EXP432P401R_release_ccs/Release/
-tirtos_builds_temp_MSP_EXP432P401R_release_ccs/targetConfigs/
-tirtos_builds_temp_MSP_EXP432P401R_release_ccs/.xdchelp
-tirtos_builds_temp_MSP_EXP432P401R_release_ccs/.config
-tirtos_builds_temp_MSP_EXP432P401R_release_ccs/.launches
+DS_Store/
+
